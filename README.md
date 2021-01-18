@@ -22,7 +22,7 @@ Sensor Fusion for Target Tracking
 <br/><br/>
 
 ## 2. Fusion Architecture Overview :-
-![](https://github.com/UditBhaskar91/OBJECT_TRACKING_MULTI_SENSOR_FUSION/blob/main/Visualization_and_Analysis/filesForReadme/0_fusion_archi_overview.PNG)
+![](https://github.com/UditBhaskar91/OBJECT_TRACKING_MULTI_SENSOR_FUSION/blob/main/Visualization_and_Analysis/filesForReadme/0_b_fusion_archi_overview.PNG)
 <br/><br/><br/><br/>
 ## 3. High Level Fusion Architecture:-
 ![](https://github.com/UditBhaskar91/OBJECT_TRACKING_MULTI_SENSOR_FUSION/blob/main/Visualization_and_Analysis/filesForReadme/1a_high_level_archi.PNG)
