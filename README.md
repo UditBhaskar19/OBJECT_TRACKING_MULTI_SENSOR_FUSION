@@ -38,12 +38,12 @@ Sensor Fusion for Target Tracking
 ![](https://github.com/UditBhaskar91/OBJECT_TRACKING_MULTI_SENSOR_FUSION/blob/main/Visualization_and_Analysis/filesForReadme/3c_module_archi_radar_fusion.PNG)
 <br/><br/>
 ### 4.3 Camera Fusion Subsystem :-
-![](https://github.com/UditBhaskar91/OBJECT_TRACKING_MULTI_SENSOR_FUSION/blob/main/Visualization_and_Analysis/filesForReadme/3a_module_archi_radar_fusion.PNG)
-![](https://github.com/UditBhaskar91/OBJECT_TRACKING_MULTI_SENSOR_FUSION/blob/main/Visualization_and_Analysis/filesForReadme/3b_module_archi_radar_fusion.PNG)
-![](https://github.com/UditBhaskar91/OBJECT_TRACKING_MULTI_SENSOR_FUSION/blob/main/Visualization_and_Analysis/filesForReadme/3c_module_archi_radar_fusion.PNG)
+![](https://github.com/UditBhaskar91/OBJECT_TRACKING_MULTI_SENSOR_FUSION/blob/main/Visualization_and_Analysis/filesForReadme/4a_module_archi_camera_fusion.PNG)
+![](https://github.com/UditBhaskar91/OBJECT_TRACKING_MULTI_SENSOR_FUSION/blob/main/Visualization_and_Analysis/filesForReadme/4b_module_archi_camera_fusion.PNG)
+![](https://github.com/UditBhaskar91/OBJECT_TRACKING_MULTI_SENSOR_FUSION/blob/main/Visualization_and_Analysis/filesForReadme/4c_module_archi_camera_fusion.PNG)
 <br/><br/>
 ### 4.4 Radar & Camera Fusion Subsystem :-
-![](https://github.com/UditBhaskar91/OBJECT_TRACKING_MULTI_SENSOR_FUSION/blob/main/Visualization_and_Analysis/filesForReadme/0_fusion_archi_overview.PNG)
+![](https://github.com/UditBhaskar91/OBJECT_TRACKING_MULTI_SENSOR_FUSION/blob/main/Visualization_and_Analysis/filesForReadme/5_module_archi_track_fusion.PNG)
 <br/><br/>
 
 
